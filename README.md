@@ -6,7 +6,7 @@
 </p>
 
 
-# Homebridge Platform Plugin Template
+# Homebridge Lupus XT2+ Plugin
 
 This is a Homebridge plugin to support the Lupus XT2+ SmartHome- and Security-Platform.
 
