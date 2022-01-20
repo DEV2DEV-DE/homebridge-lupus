@@ -9,7 +9,29 @@
         "title": "Name",
         "type": "string",
         "required": true,
-        "default": "Lupus XT2+"
+        "default": "Lupus XT2+",
+        "description": "The name of the plugin for e.g. log messages"
+      },
+      "ip": {
+        "title": "IP",
+        "type": "string",
+        "required": true,
+        "default": "127.0.0.1",
+        "format": "ipv4",
+        "description": "The ip-address of your XT2"
+      },
+      "user": {
+        "title": "Username",
+        "type": "string",
+        "required": true,
+        "description": "The username to login"
+      },
+      "password": {
+        "title": "Password",
+        "type": "string",
+        "required": true,
+        "default": "",
+        "description": "The password to login"
       }
     }
   }
