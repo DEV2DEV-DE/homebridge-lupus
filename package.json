@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Lupus XT2+",
+  "name": "homebridge-lupuse",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Support for the Lupus XT2 SmartHome- and Security-Platform.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/DEV2DEV-DE/homebridge-lupus.git
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/DEV2DEV-DE/homebridge-lupus/issues"
   },
   "engines": {
     "node": ">=14.18.1",
